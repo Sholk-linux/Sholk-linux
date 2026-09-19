@@ -10,11 +10,11 @@ I'm learning Rust and working toward writing a declarative, atomic, and user-fri
 
 ## My stats
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; flex-wrap: wrap;">
+<p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=Sholk-linux&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github">
-    <img src="https://github-stats-extended.vercel.app/api?username=Sholk-linux&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github" height="165" />
+    <img align="middle" src="https://github-stats-extended.vercel.app/api?username=Sholk-linux&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github" height="165" />
   </a>
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Sholk-linux&layout=compact&hide_title=true&langs_count=4&theme=dark_github">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Sholk-linux&layout=compact&hide_title=true&langs_count=4&theme=dark_github" height="165" />
+    <img align="middle" src="https://github-stats-extended.vercel.app/api/top-langs?username=Sholk-linux&layout=compact&hide_title=true&langs_count=4&theme=dark_github" height="165" />
   </a>
-</div>
+</p>
