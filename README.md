@@ -1,3 +1,7 @@
+## About me
+I’m learning Rust and working toward writing a declarative, atomic, and user-friendly standalone microkernel-based OS in it.
+
+## My stats
 <table align="center">
   <tr>
     <td valign="top">
