@@ -1,5 +1,24 @@
 ## About me
 I’m learning Rust and working toward writing a declarative, atomic, and user-friendly standalone microkernel-based OS in it.
+<table align="center">
+  <tr>
+    <td valign="top">
+      <a href="https://img.shields.io/badge/Rust-red?logo=rust&style=for-the-badge">
+        <img src="https://img.shields.io/badge/Rust-red?logo=rust&style=for-the-badge" height="165" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://img.shields.io/badge/NixOS-black?logo=nixos&style=for-the-badge">
+        <img src="https://img.shields.io/badge/NixOS-black?logo=nixos&style=for-the-badge" height="165" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://img.shields.io/badge/Linux-blue?logo=linux&style=for-the-badge">
+        <img src="https://img.shields.io/badge/Linux-blue?logo=linux&style=for-the-badge" height="165" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## My stats
 <table align="center">
