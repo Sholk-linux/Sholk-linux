@@ -10,7 +10,7 @@ I'm learning Rust and working toward writing a declarative, atomic, and user-fri
 
 ## My stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://github-stats-extended.vercel.app/api?username=Sholk-linux&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github">
     <img src="https://github-stats-extended.vercel.app/api?username=Sholk-linux&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github" height="165" />
   </a>
